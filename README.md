@@ -1,11 +1,8 @@
-# MontbretiaCabinet-ISP | Working memory modelling
+# MontbretiaCabinet-ISP | Working Memory Modelling
 
 ## Project Summary
 
-## Downloading the data
+---
+## Data
 - The first step was to determine the type of data that we will be using, which, in our case is the time series BOLD signals.
-- This data can be obtained from the [ConnectomeDB website](http://db.humanconnectome.org/) as shown below:
-
-  ![Screenshot 2024-12-23 130328](https://github.com/user-attachments/assets/927dea58-7c01-4239-abb3-32fdc315142d)
-  ![Screenshot 2024-12-23 130517](https://github.com/user-attachments/assets/5643bbdf-7129-4346-9fab-19af4050e6db)
-  
+- Second, we decided to use the subset of HCP data that had been preprocesses and shared by Neuromatch Academy in OSF. This data subset is accessible in [Neuromatch OSF page](https://osf.io/hygbm/) and downloadable through codes provided in the [computational neuroscience course content](https://compneuro.neuromatch.io/projects/fMRI/README.html#:~:text=HCP%20task%20datasets,Murray%2C%20Saad%20Jbabdi) from Neuromatch academy.
