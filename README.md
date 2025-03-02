@@ -29,3 +29,8 @@ Combined, these two models give us insight into temporal and spatial activity of
 ### WM Demand
 ## Generalization of WMAD
 ### Presenting Emotion and Language Data to the Model
+
+## Acknowledgements
+Data were provided in part by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
+In addition, we thank Neuromatch Academy and the Open Science Foundation for providing the HCP 100-subject data subset for this project.
+Finally, we thank Linzan Liu and Matin Yousefabadi for their support, mentorship, and advising during the NMA CN course during the summer of 2024.
