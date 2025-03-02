@@ -4,12 +4,24 @@ This project is the result of work from the **Montbretia Cabinet** team during t
 ## Project Summary
 (Abstract)
 
+## The Team!
+| Member                | Where could you find them? |
+| :-------------------- | :------------------------- |
+| Baitong Mu            | [ORCID](https://orcid.org/0009-0008-9040-3108), [GitHub](https://github.com/Mumizz)  |
+| Carmen Tang           | [ORCID](https://orcid.org/0009-0005-2491-4987), [GitHub](https://github.com/ckmtang) |
+| Zeb Caslick-Waller    | [ORCID](), [GitHub](https://github.com/Zebtopia) |
+| Wendi Li              | TBD :) |
+| Tony Gao              | [ORCID](https://orcid.org/0009-0009-3407-1097) |
+| Raúl Rodriguez Cruces | [ORCID](https://orcid.org/0000-0002-2917-1212), [GitHub](https://github.com/rcruces) |
+| Saameh Sanaaee        | [ORCID](https://orcid.org/0000-0002-8858-9117), [LinkedIn](https://www.linkedin.com/in/saameh-sanaaee/), [Bluesky](https://bsky.app/profile/saamehsanaaee.bsky.social) |
+
 ---
 
 ## Data
 Main providers of our data have been the Human Connectome Project (HCP) and Neuromatch Academy (NMA).
 
 We are using the HCP data subset that NMA has provided during the NMA Computational Neuroscience (CN) 2024 course. The data is a 100-subject subset of the original HCP young adult. The data subset is accessible in [Neuromatch OSF page](https://osf.io/hygbm/) and downloadable through codes provided in the [computational neuroscience course content](https://compneuro.neuromatch.io/projects/fMRI/README.html#:~:text=HCP%20task%20datasets,Murray%2C%20Saad%20Jbabdi) from NMA.
+
 ## Models
 We created three different models.
 
@@ -24,13 +36,17 @@ Combined, these two models give us insight into temporal and spatial activity of
 ### WMAD Model
 #### GNN and LSTM
 #### GLM
+
 ## Model Interpretation
 ### WM Architecture
 ### WM Demand
+
 ## Generalization of WMAD
 ### Presenting Emotion and Language Data to the Model
 
 ## Acknowledgements
 Data were provided in part by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
 
-In addition, we thank Neuromatch Academy (NMA) and the Open Science Framework (OSF) for providing the HCP 100-subject data subset for this project. Finally, we thank Linzan Liu and Matin Yousefabadi for their support, mentorship, and advising in the NMA CN course during the summer of 2024.
+In addition, we thank Neuromatch Academy (NMA) and the Open Science Framework (OSF) for providing the HCP 100-subject data subset for this project. Finally, we are extremely grateful for Linzan Liu and Matin Yousefabadi and their support, mentorship, and advising during the NMA CN course during the summer of 2024.
+
+## References
