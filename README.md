@@ -15,8 +15,8 @@ In our project, statistical and deep learning models acted as “sensors” for 
 | :-------------------- | :------------------------- |
 | Baitong Mu            | [ORCID](https://orcid.org/0009-0008-9040-3108), [GitHub](https://github.com/Mumizz)  |
 | Carmen Tang           | [ORCID](https://orcid.org/0009-0005-2491-4987), [GitHub](https://github.com/ckmtang) |
-| Zeb Caslick-Waller    | [ORCID](), [GitHub](https://github.com/Zebtopia) |
-| Wendi Li              | TBD :) |
+| Zeb Caslick-Waller    | [GitHub](https://github.com/Zebtopia) |
+| Wendi Li              | [ORCID](https://orcid.org/0009-0009-0796-1123) |
 | Tony Gao              | [ORCID](https://orcid.org/0009-0009-3407-1097) |
 | Raúl Rodriguez Cruces | [ORCID](https://orcid.org/0000-0002-2917-1212), [GitHub](https://github.com/rcruces) |
 | Saameh Sanaaee        | [ORCID](https://orcid.org/0000-0002-8858-9117), [LinkedIn](https://www.linkedin.com/in/saameh-sanaaee/), [Bluesky](https://bsky.app/profile/saamehsanaaee.bsky.social) |
