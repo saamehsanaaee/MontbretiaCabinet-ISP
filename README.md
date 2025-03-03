@@ -27,7 +27,7 @@ Main providers of our data have been the Human Connectome Project (HCP), Neuroma
 
 We are using the HCP data subset that NMA has provided during the NMA Computational Neuroscience (CN) 2024 course. The data is a 100-subject subset of the original HCP young adult. The data subset is accessible in [Neuromatch OSF page](https://osf.io/hygbm/) and downloadable through codes provided in the [computational neuroscience course content](https://compneuro.neuromatch.io/projects/fMRI/README.html#:~:text=HCP%20task%20datasets,Murray%2C%20Saad%20Jbabdi) from NMA.
 
-The task-based fMRI data from HCP are time series Blood-oxygen-level-dependent (BOLD) signals that show brain activity through an increased blood flow and oxygenation to the active area of the brain. These signals are organized based on "regions" (see '''regions.npy''' section of the WMD Jupyter Notebook) corresponding to the 360 areas of the Glasser parcellation.
+The task-based fMRI data from HCP are time series Blood-oxygen-level-dependent (BOLD) signals that show brain activity through an increased blood flow and oxygenation to the active area of the brain. These signals are organized based on "regions" (see ```regions.npy``` section of the WMD Jupyter Notebook) corresponding to the 360 areas of the Glasser parcellation.
 
 ## Running the notebooks in this repository
 In terms of reproducitbity, all of our Jupyter Notebooks are self-containing notebooks that you can run independantly of other files.
