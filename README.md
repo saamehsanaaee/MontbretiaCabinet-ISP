@@ -1,7 +1,7 @@
 # Working Memory Architecture and Demand Model
 This project is the result of work from the **Montbretia Cabinet** team during the Neuromatch Academy [Computational Neuroscience Course](https://compneuro.neuromatch.io/) and the Neuromatch Academy [Impact Scholars Program](https://impact-scholars.neuromatch.io/).
 
-For information on using this repository, please refer to [this section](https://github.com/saamehsanaaee/WMAD-Montbretia_Cabinet-ISP/edit/main/README.md#running-the-notebooks-in-this-repository).
+For information on using this repository, please refer to [this section](https://github.com/saamehsanaaee/WMAD-Montbretia_Cabinet-ISP/tree/main#running-the-notebooks-in-this-repository).
 
 ## Project Summary
 Working memory (WM) allows us to temporarily hold information “online”, supporting higher cognitive functions such as decision-making, attention, and problem-solving. A key brain region responsible for WM is the prefrontal cortex, an area that differentiates us from other animals. Although our WM resources are limited, it adapts dynamically to the specific demands of different tasks.
@@ -34,7 +34,7 @@ In terms of reproducitbity, all of our Jupyter Notebooks are self-containing not
 
 The best way to run these notebooks would be to use Google Colab since it will give you a quicker data-access time without the hassel of downloading the files directly from OSF.
 
-We should mention that many functions, especially those for setup and data acquisition, were adopted from the NMA-provided notebook (find it in the [Data](https://github.com/saamehsanaaee/WMAD-Montbretia_Cabinet-ISP/edit/main/README.md#data) section). Other functions have detailed docstring documentations that provides sufficient information on how they need to be run.
+We should mention that many functions, especially those for setup and data acquisition, were adopted from the NMA-provided notebook (find it in the [Data](https://github.com/saamehsanaaee/WMAD-Montbretia_Cabinet-ISP/tree/main#data) section). Other functions have detailed docstring documentations that provides sufficient information on how they need to be run.
 
 This repository and its documentation will be updated throughout March of 2025 and code snippets for proper use of functions will be added. So, please be patient for the final iterations since, for now, the notebooks can just be run from top to bottom as they are. In the meantime, please open an issue if you see a giant red flag. We would really appreciate that!
 
