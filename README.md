@@ -67,4 +67,4 @@ Although this information on the demand of tasks like "arithmatic problem-solvin
 ## Acknowledgements
 Data were provided in part by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
 
-In addition, we thank Neuromatch Academy (NMA) and the Open Science Framework (OSF) for providing the HCP 100-subject data subset for this project. Finally, we are extremely grateful for Linzan Liu and Matin Yousefabadi and their support, mentorship, and advising during the NMA CN course during the summer of 2024.
+In addition, we thank Neuromatch Academy (NMA) and the Open Science Framework (OSF) for providing the HCP 100-subject data subset for this project. Finally, we are incredibly grateful for Linzan Liu and Matin Yousefabadi and their support, mentorship, and advising during the NMA CN course during the summer of 2024.
