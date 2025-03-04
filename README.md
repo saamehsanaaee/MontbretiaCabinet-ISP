@@ -53,6 +53,7 @@ Combined, these two models could give us insight into temporal and spatial activ
 The WMD, constructed with dense and dropout layers that are organized into 4 paired-layers, is a classifier MLP that takes in 360 parcel-based average BOLD signals and generates two outputs. The outputs, probability values corresponding to numbers 0 (low-demand) and 1 (high-demand) act as our labels, telling us how likely it is that the input signal is a 0 or a 1.
 ### WMAD Model
 The WMAD model buils off of the WMD. Main improvements of the WMAD model are use of time series instead of avergae BOLD signals, addition of GNN and LSTM to the model architecture, and higher interpretability of the results due to a more granular output. The output of the GNN-LSTM is similar to the preliminary model, but instead of a single paired value, it generates the probabilities for each of the 360 parcels. With this change, we can identify parcels that contribute the most to WM function. The GNN-LSTM model gives us insight into the spatial architecture of WM.
+
 The GLM, if functional, also takes in time series data as input and could elucidate WM function from a temporal view. The GLM could show the flow of information through the brain based on spatiotemporal brain activity recorded by the tfMRI.
 
 ## Model Interpretation
